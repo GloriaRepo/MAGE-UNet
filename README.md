@@ -56,7 +56,11 @@ python test.py --dataset Synapse --vit_name R50-ViT-B_16
 
 ## 📊 Performance
 
-*To be added...*
+### Visualization Results
+
+![Segmentation Performance Comparison](./visualization.jpg)
+
+The above figure demonstrates the comparative performance of different segmentation models. From left to right: input image, ground truth mask, MAGE-UNet segmentation result, Swin-UNet model result, and baseline TransUNet result. The comparison clearly shows that MAGE-UNet achieves significant improvements over the baseline models in terms of edge detail preservation and overall segmentation accuracy.
 
 ## 📜 License
 
