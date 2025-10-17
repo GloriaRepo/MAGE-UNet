@@ -6,6 +6,9 @@
 
 MAGE-UNet is a specialized deep learning model for high-precision medical image segmentation. It combines multi-scale attention mechanisms and large-kernel fusion technology to provide more accurate segmentation results.
 
+![MAGE-UNet Architecture](./MAGE-UNet.tiff)
+
+
 ## 🚀 Quick Start
 
 ### 1. Download Pre-trained ViT Models
