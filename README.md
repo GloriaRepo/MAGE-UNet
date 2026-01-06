@@ -1,11 +1,10 @@
 # MAGE-UNet 🔬
 
-> A Multi-scale Attention-Guided Encoder-Decoder with Large-Kernel Fusion for High-Precision Medical Image Segmentation
+
 
 ## 📝 Project Overview
 
-MAGE-UNet is a specialized deep learning model for high-precision medical image segmentation. It combines multi-scale attention mechanisms and large-kernel fusion technology to provide more accurate segmentation results.
-
+MAGE-UNet is a specialized deep learning model for high-precision medical image segmentation. 
 
 
 
